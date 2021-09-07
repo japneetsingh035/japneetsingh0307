@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @japneetsingh0307
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @japneetsingh035
+- 👀 I’m interested in Web Programming
+- 🌱 I’m currently learning Computer Programming & Analysis
+- 💞️ I’m looking to collaborate on Front-End Designs
+- 📫 reach me on Slack.
 
 <!---
 japneetsingh0307/japneetsingh0307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
